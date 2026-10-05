@@ -13,7 +13,15 @@ Reflect. Refract. Act.</p>
 
 REFR/ACT is a student-led, one-day hackathon planned for **Saturday, April 17, 2027**, at PRISMS in Princeton, New Jersey. The proposed main event is designed for **30–60 students**, including PRISMS students and invited middle and high school students from nearby communities. Teams will have 2–5 members.
 
-A hackathon is a time-limited, team-based event where participants explore a problem, build a prototype, and present their work for feedback. It brings together coding, design, research, engineering, and collaboration; projects need not be finished products.
+A hackathon is a time-limited, collaborative project event. Students form teams, identify a problem, explore possible solutions, and build a prototype: a first version others can try, such as an app, a hardware model, or a data tool. Teams test and revise their work, then demonstrate it and answer judges’ questions. Mentors and optional workshops support learning, but students own the project and its decisions. It is not simply a coding-speed contest or a requirement to launch a finished product. Research, design, engineering, communication, and teamwork all matter.
+
+## Why REFR/ACT
+
+We are dissatisfied with a pattern we see in many hackathons: teams begin with “What can we build?” and rush to make a demo in two days, without first asking: **Whose problem is this? Do we understand their real circumstances? Would our solution actually help?** REFR/ACT wants to reverse that order.
+
+Before becoming action, an idea should be “refracted” through different people's perspectives, needs, and real-world constraints. That is why we call it **Refract**: understanding others should be allowed to change what we decide to build. **Reflect, to see clearly. Refract, to see differently. Act, to make possibility tangible.**
+
+As students at a STEM school, we want to extend learning beyond research alone and give high school students room to create from their own ideas. This complements scientific inquiry rather than replacing it: students can turn a question into something tangible, test whether it helps, and improve it. Their ideas deserve to be heard and given a chance to become real.
 
 ## Three thematic tracks
 
@@ -31,6 +39,10 @@ Across all three tracks, students will present both their **project** and a conc
 2. **Main REFR/ACT Hackathon (April 17, 2027):** The proposed public-facing, one-day event for PRISMS students and invited local middle and high school students. The main event plan will be refined using lessons from the House Game qualifier.
 
 The House Game qualifier is also a pilot for the format, technology, and event procedures, not a full hackathon; **April 17, 2027 is the main event**, not the pilot.
+
+## Collaboration and sponsorship
+
+In collaboration with and sponsored by **Shigou Intelligent Technology (Shanghai) Co., Ltd.**
 
 ## Get involved
 
