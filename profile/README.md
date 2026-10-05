@@ -27,10 +27,10 @@ Across all three tracks, students will present both their **project** and a conc
 
 ## Building in two phases
 
-1. **PRISMS Internal Workshop (date TBD):** A small workshop of approximately four teams to test the format, tools, AI workflow, reflection and judging approach, and event logistics.
-2. **Main REFR/ACT Hackathon (April 17, 2027):** The proposed public-facing, one-day event for PRISMS students and invited local middle and high school students. The main event plan will be refined using lessons from the workshop.
+1. **PRISMS House Game Internal Qualifier (date TBD, before April 17):** A proposed short, bounded challenge entered individually by PRISMS students. A scoring rubric published before entry will be used to select or form **two PRISMS representative teams** for the main REFR/ACT event. The qualifier will also test the event format, technology, AI workflow, reflection and judging approach, and event logistics. Eligibility, selection and team-formation rules, permissions, and school supervision must be confirmed before it is announced.
+2. **Main REFR/ACT Hackathon (April 17, 2027):** The proposed public-facing, one-day event for PRISMS students and invited local middle and high school students. The main event plan will be refined using lessons from the House Game qualifier.
 
-The workshop is a pilot session; **April 17, 2027 is the main event**, not the pilot.
+The House Game qualifier is also a pilot for the format, technology, and event procedures, not a full hackathon; **April 17, 2027 is the main event**, not the pilot.
 
 ## Get involved
 
