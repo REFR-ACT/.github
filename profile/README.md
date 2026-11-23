@@ -20,11 +20,13 @@
 | 参加，或者找人一起做项目 | [参加者指南](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/docs/zh/participant-experience.md) |
 | 带设备、安排技术桌，或单独出一道题 | [企业与社区合作](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/docs/zh/partnerships.md) |
 | 了解我们怎么准备现场 | [REFR/ACT Playbook](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/README.zh.md) |
-| 看我们的品牌短片 | [SHED LIGHT](https://github.com/REFR-ACT/Shed-Light-Video) |
+| 了解 PRISMS 校内学院游戏赛 | [PRISMS House Event：Jones’s Bizarre Adventure](https://refracthack.org/housegame/?lang=zh) |
 
 ## About REFR/ACT
 
 Make a prototype someone can try while there is still time to change it. REFR/ACT is student-led, and this edition is open to creators from different schools and backgrounds. The [current outline](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/docs/en/schedule.md) runs from on-site setup on Day 1 through finals on Day 5. See the [English playbook](https://github.com/REFR-ACT/Hackathon-Playbook) or our [partnership guide](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/docs/en/partnerships.md).
+
+The [PRISMS House Event: Jones’s Bizarre Adventure](https://refracthack.org/housegame/) is a separate school game competition. Each house builds one Python game for an arcade controller.
 
 For organizer, mentor or partner inquiries, open an [issue](https://github.com/REFR-ACT/Hackathon-Playbook/issues). Do not post registration information, contracts or confidential business details.
 
