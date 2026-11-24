@@ -2,54 +2,55 @@
   <img src="https://raw.githubusercontent.com/REFR-ACT/.github/main/profile/refract-wordmark.png" alt="REFR/ACT" width="520">
 </p>
 
-<h1 align="center">REFR/ACT</h1>
+<h1 align="center">如果我们不曾相遇</h1>
 
-<p align="center"><strong>另一种介质 / Into a Different Medium</strong></p>
+<p align="center"><strong>REFR/ACT 2027 · 启程预告</strong><br>
+Into a Different Medium.</p>
 
-## 我们想留点时间给那几步路
+## 在创造之前，我们首先是人。
 
-有人想让机器人转得更快。隔壁桌有个排过戏的人，问了一句：「转身前能不能停半拍？」
+我们习惯问一个人擅长什么、做过什么。我们更想坐下来，听听他为什么想做这件事。
 
-他们试了试。也许最后还是原来那版好。可要是没走到隔壁桌，大概没人会想起那半拍。
+一个从没碰过硬件的人坐在机械工程师旁边。一个设计师的问题让程序员重新想了一遍自己的代码。他们原本可能不会认识。没有人知道相遇之后会做出什么，而这正是我们想看看会发生的事。
 
-我们想在赛程里给这种事留点时间。先把手上的东西做到能试，再递给一个刚认识的人。别等到最后一次演示：如果发现哪里不对，拿回来还能改。
+**有些事，只有相遇才会发生。** [读中文启程预告](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/docs/zh/into-a-different-medium.md)
 
-[读「另一种介质」](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/docs/zh/into-a-different-medium.md) · [中文 Playbook](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/README.zh.md)
+**2027 年春季 · 美国新泽西州普林斯顿地区 · 线下黑客松 · 预计 500 名创造者。** 具体日期及场地待公布。DAY 5 上午是全员作品展，每支提交作品的队伍都有自己的展位。
 
-### REFR/ACT 2027 筹备组招募
+**主办方：**识构智能科技（上海）有限公司
 
-我们已经做过一轮校园试办。下一届预计于 **2027 年 3 月底**在**新泽西州 Princeton 附近**举办，按 **300–500 人**筹备；具体日期和场地待确认。
+**执行团队：**REFR/ACT 团队
 
-招募开发与运维、体验与现场运营、赞助与财务、设计、宣发与叙事。**体验与现场运营（EXP）需要能到 Princeton 附近线下参与，其他四组可远程，包括中国国内。**
+| 入口 | 去哪里 |
+| --- | --- |
+| **JOIN · 选手报名** | 暂未开放 · [最新排期](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/docs/zh/schedule.md) |
+| **CREW · 幕后共创** | [筹备组报名 · 飞书](https://gcnnm88gjxtf.feishu.cn/share/base/form/shrcnjx100H5sj6CpxdI7o3hZce) · [公开岗位说明 · Google Docs](https://docs.google.com/document/d/1Gu1MRFe0LIX-ntcfnNNG2Q6b_m2b3C5p3239r8Ufv0c/edit) |
+| **PARTNER · 商务合作** | [企业与社区合作](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/docs/zh/partnerships.md) · [contact@refracthack.org](mailto:contact@refracthack.org) |
 
-[看岗位说明 · Google Docs](https://docs.google.com/document/d/1Gu1MRFe0LIX-ntcfnNNG2Q6b_m2b3C5p3239r8Ufv0c/edit) · [填筹备组报名表 · 飞书](https://gcnnm88gjxtf.feishu.cn/share/base/form/shrcnjx100H5sj6CpxdI7o3hZce)
+筹备组招募开发与运维、体验与现场运营、赞助与财务、设计、宣发与叙事。体验与现场运营（EXP）需要能到 Princeton 附近线下参与，其余四组可远程，包括中国国内。
 
-这是**筹备组招募**，不是参赛报名。[线下排期](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/docs/zh/schedule.md) · [参加者指南](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/docs/zh/participant-experience.md) · [企业与社区合作](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/docs/zh/partnerships.md)
+## If Our Worlds Had Never Met
 
-## Into a Different Medium
+We’re used to asking people what they’ve done and what they’re good at. We don’t often get to sit down and ask why they wanted to make something in the first place.
 
-You’re trying to make a robot turn faster. Someone at the next table has done theater. They ask, “Could it pause for half a beat before it turns?”
+Put someone who’s never touched hardware next to a mechanical engineer. Let a designer ask the question that makes a programmer look at their code again. We can make room for the encounter. What they make is up to them.
 
-You give it a try. Maybe the original still works better. You wouldn’t have thought to try that half beat on your own.
+**Some things would never happen if our worlds never met.** [Read the full preview](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/docs/en/into-a-different-medium.md)
 
-We want to leave time for those few steps to the next table. Let someone try what you’re making before the final demo, while you can still take it back and change it.
+**Spring 2027 · Princeton area, New Jersey · In person · About 500 creators expected.** Exact dates and venue are to be announced. On the morning of Day 5, every team that submits a project will have a booth at the Open Expo.
 
-[Read our story](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/docs/en/into-a-different-medium.md) · [English Playbook](https://github.com/REFR-ACT/Hackathon-Playbook)
+**Host:** Shigou Intelligent Technology (Shanghai) Co., Ltd.
 
-### Join the 2027 organizing team
+**Organizing Committee:** The REFR/ACT team
 
-We’ve run a schoolwide pilot. We’re now planning for **300–500 people** near **Princeton, New Jersey**, tentatively in **late March 2027**. Exact dates and venue are still to be confirmed.
+| Entry | Where to go |
+| --- | --- |
+| **JOIN · Participants** | Registration not open yet · [Event schedule](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/docs/en/schedule.md) |
+| **CREW · Organizing team** | [Apply on Feishu](https://gcnnm88gjxtf.feishu.cn/share/base/form/shrcnjx100H5sj6CpxdI7o3hZce) · [Role descriptions on Google Docs](https://docs.google.com/document/d/1Gu1MRFe0LIX-ntcfnNNG2Q6b_m2b3C5p3239r8Ufv0c/edit) |
+| **PARTNER · Sponsorship and collaboration** | [Partnership guide](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/docs/en/partnerships.md) · [contact@refracthack.org](mailto:contact@refracthack.org) |
 
-We’re looking for teammates in Development, Experience & Operations, Sponsorship & Finance, Design, and Communications & Storytelling. **Experience & Operations needs people who can be there in person near Princeton.** The other four teams can work remotely, including from China.
-
-[Read the roles · Google Docs](https://docs.google.com/document/d/1Gu1MRFe0LIX-ntcfnNNG2Q6b_m2b3C5p3239r8Ufv0c/edit) · [Apply to organize · Feishu](https://gcnnm88gjxtf.feishu.cn/share/base/form/shrcnjx100H5sj6CpxdI7o3hZce)
-
-This application is **for the organizing team**, not hackathon participants. [Event schedule](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/docs/en/schedule.md) · [Participant guide](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/docs/en/participant-experience.md) · [Partner with us](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/docs/en/partnerships.md)
+We’re recruiting for Development, Experience & Operations, Sponsorship & Finance, Design, and Communications & Storytelling. Experience & Operations needs people on site near Princeton; the other four teams can contribute remotely, including from China.
 
 ---
 
-筹备、导师或赞助合作 / Organizing, mentoring or sponsorship: [contact@refracthack.org](mailto:contact@refracthack.org). 欢迎来自中国、美国及其他地区的合作伙伴。We welcome partners in China, the U.S., and elsewhere.
-
-[refracthack.org](https://refracthack.org/) · [PRISMS House Event](https://refracthack.org/housegame/)（独立校内学院游戏赛 / a separate school game competition）
-
-早期筹备鸣谢 / Early planning acknowledgment: 识构智能科技（上海）有限公司 / Shigou Intelligent Technology (Shanghai) Co., Ltd.
+[官网 / Website](https://refracthack.org/) · [中文 Playbook](https://github.com/REFR-ACT/Hackathon-Playbook/blob/main/README.zh.md) · [English Playbook](https://github.com/REFR-ACT/Hackathon-Playbook) · [PRISMS House Event](https://refracthack.org/housegame/)（独立校内学院游戏赛 / a separate school game competition）
