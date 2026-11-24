@@ -4,7 +4,7 @@
 
 <h1 align="center">如果我们不曾相遇</h1>
 
-<p align="center"><strong>REFR/ACT 2027 · 启程预告</strong><br>
+<p align="center"><strong>REFR/ACT 2027 · 面向校园社区的线下黑客松</strong><br>
 Into a Different Medium.</p>
 
 ## 在创造之前，我们首先是人。
@@ -17,9 +17,9 @@ Into a Different Medium.</p>
 
 **2027 年春季 · 美国新泽西州普林斯顿地区 · 线下黑客松 · 预计 500 名创造者。** 具体日期及场地待公布。DAY 5 上午是全员作品展，每支提交作品的队伍都有自己的展位。
 
-**主办方：**识构智能科技（上海）有限公司
+**主办方**：识构智能科技（上海）有限公司
 
-**执行团队：**REFR/ACT 团队
+**执行团队**：REFR/ACT 团队
 
 | 入口 | 去哪里 |
 | --- | --- |
@@ -30,6 +30,8 @@ Into a Different Medium.</p>
 筹备组招募开发与运维、体验与现场运营、赞助与财务、设计、宣发与叙事。体验与现场运营（EXP）需要能到 Princeton 附近线下参与，其余四组可远程，包括中国国内。
 
 ## If Our Worlds Had Never Met
+
+REFR/ACT is an in-person hackathon for campus communities. It brings people from different schools and disciplines together to build something others can try.
 
 We’re used to asking people what they’ve done and what they’re good at. We don’t often get to sit down and ask why they wanted to make something in the first place.
 
